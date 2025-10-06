@@ -1,7 +1,7 @@
 /**
  * Classe GroupClass - implements the Interface Group.
  *
- * @authors Margrida Lopes n64557 and Diogo Castelos n66045
+ * @authors Margrida Lopes n64557
  */
 
 package engine;
