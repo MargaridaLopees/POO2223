@@ -1,7 +1,7 @@
 /**
  * Classe SealedLips - extends the abastract class PersonClass.
  *
- * @authors Margrida Lopes n64557 and Diogo Castelos n66045
+ * @authors Margrida Lopes n64557
  */
 
 package engine;
