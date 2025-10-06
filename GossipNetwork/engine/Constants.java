@@ -2,7 +2,7 @@
  * Constants class.
  * All the constants used in this work are in this class.
  *
- * @authors Margrida Lopes n64557 and Diogo Castelos n66045
+ * @authors Margrida Lopes n64557
  */
 
 package engine;
