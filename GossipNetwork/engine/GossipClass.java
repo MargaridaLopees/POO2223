@@ -1,7 +1,7 @@
 /**
  * Classe GossipClass - implements the Interface Gossip.
  *
- * @authors Margrida Lopes n64557 and Diogo Castelos n66045
+ * @authors Margrida Lopes n64557
  */
 
 package engine;
